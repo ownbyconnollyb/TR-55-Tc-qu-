@@ -9,4 +9,4 @@ Am = area (acres)
 Q = runoff (in)
 Fp = ponding factor 
 
-Structure of code-base including dependencies: The code-base for this project is in R, the data is in .csv format. This analysis uses the Propagate function to generate error within the time of concentration variables in relation to unit peak discharge. 
+The code-base for this project is in R, the data is in .csv format. This analysis uses the Propagate function to generate error within the time of concentration variables in relation to unit peak discharge. 
